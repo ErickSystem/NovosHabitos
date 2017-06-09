@@ -25,3 +25,12 @@ C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\REPOSITORY\NovosHabitos\NovosHabit
 C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\REPOSITORY\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.Form1.resources
 C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\REPOSITORY\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.Properties.Resources.resources
 C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\REPOSITORY\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.csproj.GenerateResource.Cache
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\bin\Debug\NovosHabitos.exe.config
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.exe
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.pdb
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\bin\Debug\NovosHabitos.exe
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\bin\Debug\NovosHabitos.pdb
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.Form1.resources
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.Properties.Resources.resources
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.csproj.GenerateResource.Cache
+C:\Users\adm\Desktop\PROGRAMAS\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.Alunos.resources

@@ -414,6 +414,10 @@ namespace NovosHabitos
             {
                 lblC.Text = "Excelente!!";
             }
+            else
+            {
+
+            }
         }
 
         //linha D
@@ -548,6 +552,16 @@ namespace NovosHabitos
             {
                 lblD.Text = "Excelente!!";
             }
+            else
+            {
+
+            }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Alunos frms = new Alunos();
+            frms.ShowDialog();
         }
     }
 }
