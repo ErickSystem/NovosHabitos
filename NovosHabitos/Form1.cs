@@ -414,10 +414,6 @@ namespace NovosHabitos
             {
                 lblC.Text = "Excelente!!";
             }
-            else
-            {
-
-            }
         }
 
         //linha D
@@ -551,10 +547,6 @@ namespace NovosHabitos
             if (somaD >= 5)
             {
                 lblD.Text = "Excelente!!";
-            }
-            else
-            {
-
             }
         }
     }
