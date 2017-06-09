@@ -609,9 +609,11 @@
             this.pictureBox4.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox4.BackgroundImage = global::NovosHabitos.Properties.Resources.duvida;
             this.pictureBox4.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox4.ErrorImage = global::NovosHabitos.Properties.Resources.duvida;
             this.pictureBox4.Location = new System.Drawing.Point(698, 369);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(50, 51);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox4.TabIndex = 46;
             this.pictureBox4.TabStop = false;
             // 
@@ -620,9 +622,11 @@
             this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox3.BackgroundImage = global::NovosHabitos.Properties.Resources.duvida;
             this.pictureBox3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox3.ErrorImage = global::NovosHabitos.Properties.Resources.duvida;
             this.pictureBox3.Location = new System.Drawing.Point(698, 296);
             this.pictureBox3.Name = "pictureBox3";
             this.pictureBox3.Size = new System.Drawing.Size(50, 51);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 45;
             this.pictureBox3.TabStop = false;
             // 
@@ -631,9 +635,12 @@
             this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
             this.pictureBox2.BackgroundImage = global::NovosHabitos.Properties.Resources.duvida;
             this.pictureBox2.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.pictureBox2.ErrorImage = global::NovosHabitos.Properties.Resources.duvida;
+            this.pictureBox2.Image = global::NovosHabitos.Properties.Resources.duvida;
             this.pictureBox2.Location = new System.Drawing.Point(698, 224);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(50, 51);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox2.TabIndex = 44;
             this.pictureBox2.TabStop = false;
             // 
@@ -645,6 +652,7 @@
             this.pictureBox1.Location = new System.Drawing.Point(698, 152);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(50, 51);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox1.TabIndex = 43;
             this.pictureBox1.TabStop = false;
             // 

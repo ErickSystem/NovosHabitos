@@ -103,6 +103,16 @@ namespace NovosHabitos.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap feliz2 {
+            get {
+                object obj = ResourceManager.GetObject("feliz2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap madeira01 {
             get {
                 object obj = ResourceManager.GetObject("madeira01", resourceCulture);
@@ -123,9 +133,29 @@ namespace NovosHabitos.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap normal2 {
+            get {
+                object obj = ResourceManager.GetObject("normal2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap triste {
             get {
                 object obj = ResourceManager.GetObject("triste", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap triste2 {
+            get {
+                object obj = ResourceManager.GetObject("triste2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

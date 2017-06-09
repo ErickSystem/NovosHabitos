@@ -16,3 +16,12 @@ E:\executaveis liberados\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.csproj
 E:\executaveis liberados\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.Form1.resources
 E:\executaveis liberados\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.Properties.Resources.resources
 E:\executaveis liberados\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.csproj.GenerateResource.Cache
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\REPOSITORY\NovosHabitos\NovosHabitos\bin\Debug\NovosHabitos.exe.config
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\REPOSITORY\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.exe
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\REPOSITORY\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.pdb
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\REPOSITORY\NovosHabitos\NovosHabitos\bin\Debug\NovosHabitos.exe
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\REPOSITORY\NovosHabitos\NovosHabitos\bin\Debug\NovosHabitos.pdb
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\REPOSITORY\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.csprojResolveAssemblyReference.cache
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\REPOSITORY\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.Form1.resources
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\REPOSITORY\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.Properties.Resources.resources
+C:\Users\Erick\Desktop\Mega-Nuvem\PROGRAMMING\REPOSITORY\NovosHabitos\NovosHabitos\obj\Debug\NovosHabitos.csproj.GenerateResource.Cache

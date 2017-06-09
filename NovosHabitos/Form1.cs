@@ -35,6 +35,11 @@ namespace NovosHabitos
             btnA1.Enabled = false;
             btnA1.BackgroundImage = Properties.Resources.check;
             finalA();
+            if (somaA <= 2)
+            {
+                pictureBox1.Image = Properties.Resources.triste;
+            }
+
         }
 
         private void btnA2_Click(object sender, EventArgs e)
@@ -63,6 +68,10 @@ namespace NovosHabitos
             btnA3.Enabled = false;
             btnA3.BackgroundImage = Properties.Resources.check;
             finalA();
+            if (somaA == 3 || somaA == 4)
+            {
+                pictureBox1.Image = Properties.Resources.normal;
+            }
         }
 
         private void btnA4_Click(object sender, EventArgs e)
@@ -91,6 +100,11 @@ namespace NovosHabitos
             btnA5.Enabled = false;
             btnA5.BackgroundImage = Properties.Resources.check;
             finalA();
+
+            if (somaA >= 5)
+            {
+                pictureBox1.Image = Properties.Resources.feliz;
+            }
         }
 
         private void btnA6_Click(object sender, EventArgs e)
@@ -126,21 +140,17 @@ namespace NovosHabitos
             if (somaA <= 2)
             {
                 lblA.Text = "Ruim!!";
-                pictureBox1.Image = Properties.Resources.triste;
+                //pictureBox1.Image = Properties.Resources.triste;
             }
             if (somaA == 3 || somaA == 4)
             {
                 lblA.Text = "Regular!!";
-                pictureBox1.Image = Properties.Resources.normal;
+                //pictureBox1.Image = Properties.Resources.normal;
             }
             if (somaA >= 5)
             {
                 lblA.Text = "Excelente!!";
-                pictureBox1.Image = Properties.Resources.feliz;
-            }
-            else
-            {
-                pictureBox1.Image = Properties.Resources.duvida;
+                //pictureBox1.Image = Properties.Resources.feliz;
             }
         }
 
@@ -157,6 +167,11 @@ namespace NovosHabitos
             btnB1.Enabled = false;
             btnB1.BackgroundImage = Properties.Resources.check;
             finalB();
+            if (somaB <= 2)
+            {
+                pictureBox2.Image = Properties.Resources.triste2;
+            }
+
         }
 
         private void btnB2_Click(object sender, EventArgs e)
@@ -185,6 +200,10 @@ namespace NovosHabitos
             btnB3.Enabled = false;
             btnB3.BackgroundImage = Properties.Resources.check;
             finalB();
+            if (somaB == 3 || somaB == 4)
+            {
+                pictureBox2.Image = Properties.Resources.normal2;
+            }
         }
 
         private void btnB4_Click(object sender, EventArgs e)
@@ -213,6 +232,12 @@ namespace NovosHabitos
             btnB5.Enabled = false;
             btnB5.BackgroundImage = Properties.Resources.check;
             finalB();
+
+            if (somaB >= 5)
+            {
+                pictureBox2.Image = Properties.Resources.feliz2;
+            }
+
         }
 
         private void btnB6_Click(object sender, EventArgs e)
@@ -257,10 +282,7 @@ namespace NovosHabitos
             {
                 lblB.Text = "Excelente!!";
             }
-            else
-            {
 
-            }
         }
 
         //linha C
@@ -276,6 +298,11 @@ namespace NovosHabitos
             btnC1.Enabled = false;
             btnC1.BackgroundImage = Properties.Resources.check;
             finalC();
+
+            if (somaC <= 2)
+            {
+                pictureBox3.Image = Properties.Resources.triste;
+            }
         }
 
         private void btnC2_Click(object sender, EventArgs e)
@@ -304,6 +331,11 @@ namespace NovosHabitos
             btnC3.Enabled = false;
             btnC3.BackgroundImage = Properties.Resources.check;
             finalC();
+
+            if (somaC == 3 || somaC == 4)
+            {
+                pictureBox3.Image = Properties.Resources.normal;
+            }
         }
 
         private void btnC4_Click(object sender, EventArgs e)
@@ -332,6 +364,12 @@ namespace NovosHabitos
             btnC5.Enabled = false;
             btnC5.BackgroundImage = Properties.Resources.check;
             finalC();
+
+            if (somaC >= 5)
+            {
+                pictureBox3.Image = Properties.Resources.feliz;
+            }
+
         }
 
         private void btnC6_Click(object sender, EventArgs e)
@@ -395,6 +433,12 @@ namespace NovosHabitos
             btnD1.Enabled = false;
             btnD1.BackgroundImage = Properties.Resources.check;
             finalD();
+
+            if (somaD <= 2)
+            {
+                pictureBox4.Image = Properties.Resources.triste;
+            }
+
         }
 
         private void btnD2_Click(object sender, EventArgs e)
@@ -423,6 +467,13 @@ namespace NovosHabitos
             btnD3.Enabled = false;
             btnD3.BackgroundImage = Properties.Resources.check;
             finalD();
+
+
+            if (somaD == 3 || somaD == 4)
+            {
+                pictureBox4.Image = Properties.Resources.normal;
+            }
+
         }
 
         private void btnD4_Click(object sender, EventArgs e)
@@ -451,6 +502,12 @@ namespace NovosHabitos
             btnD5.Enabled = false;
             btnD5.BackgroundImage = Properties.Resources.check;
             finalD();
+
+            if (somaD >= 5)
+            {
+                pictureBox4.Image = Properties.Resources.feliz;
+            }
+
         }
 
         private void btnD6_Click(object sender, EventArgs e)
